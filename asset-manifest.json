@@ -1,15 +1,15 @@
 {
-  "main.css": "origin%20https://Harshit2299.github.io/TextUtils-React/static/css/main.2399a1f4.chunk.css",
-  "main.js": "origin%20https://Harshit2299.github.io/TextUtils-React/static/js/main.5a4ab6f8.chunk.js",
-  "main.js.map": "origin%20https://Harshit2299.github.io/TextUtils-React/static/js/main.5a4ab6f8.chunk.js.map",
-  "static/js/1.3c11774c.chunk.js": "origin%20https://Harshit2299.github.io/TextUtils-React/static/js/1.3c11774c.chunk.js",
-  "static/js/1.3c11774c.chunk.js.map": "origin%20https://Harshit2299.github.io/TextUtils-React/static/js/1.3c11774c.chunk.js.map",
-  "static/js/2.2b8e7308.chunk.js": "origin%20https://Harshit2299.github.io/TextUtils-React/static/js/2.2b8e7308.chunk.js",
-  "static/js/2.2b8e7308.chunk.js.map": "origin%20https://Harshit2299.github.io/TextUtils-React/static/js/2.2b8e7308.chunk.js.map",
-  "runtime~main.js": "origin%20https://Harshit2299.github.io/TextUtils-React/static/js/runtime~main.62b6420e.js",
-  "runtime~main.js.map": "origin%20https://Harshit2299.github.io/TextUtils-React/static/js/runtime~main.62b6420e.js.map",
-  "static/css/main.2399a1f4.chunk.css.map": "origin%20https://Harshit2299.github.io/TextUtils-React/static/css/main.2399a1f4.chunk.css.map",
-  "index.html": "origin%20https://Harshit2299.github.io/TextUtils-React/index.html",
-  "precache-manifest.55ab5ca645b069a6f5200ea3e72fb0e3.js": "origin%20https://Harshit2299.github.io/TextUtils-React/precache-manifest.55ab5ca645b069a6f5200ea3e72fb0e3.js",
-  "service-worker.js": "origin%20https://Harshit2299.github.io/TextUtils-React/service-worker.js"
+  "main.css": "/TextUtils-React/static/css/main.2399a1f4.chunk.css",
+  "main.js": "/TextUtils-React/static/js/main.5a4ab6f8.chunk.js",
+  "main.js.map": "/TextUtils-React/static/js/main.5a4ab6f8.chunk.js.map",
+  "static/js/1.3c11774c.chunk.js": "/TextUtils-React/static/js/1.3c11774c.chunk.js",
+  "static/js/1.3c11774c.chunk.js.map": "/TextUtils-React/static/js/1.3c11774c.chunk.js.map",
+  "static/js/2.2b8e7308.chunk.js": "/TextUtils-React/static/js/2.2b8e7308.chunk.js",
+  "static/js/2.2b8e7308.chunk.js.map": "/TextUtils-React/static/js/2.2b8e7308.chunk.js.map",
+  "runtime~main.js": "/TextUtils-React/static/js/runtime~main.2591e466.js",
+  "runtime~main.js.map": "/TextUtils-React/static/js/runtime~main.2591e466.js.map",
+  "static/css/main.2399a1f4.chunk.css.map": "/TextUtils-React/static/css/main.2399a1f4.chunk.css.map",
+  "index.html": "/TextUtils-React/index.html",
+  "precache-manifest.7d64a8a2e9d63229fb4b30fc1899e64e.js": "/TextUtils-React/precache-manifest.7d64a8a2e9d63229fb4b30fc1899e64e.js",
+  "service-worker.js": "/TextUtils-React/service-worker.js"
 }
